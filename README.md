@@ -4,10 +4,10 @@
 To summarize i developed Spring MVC project which creating, reading, updating and deleting customer data from the client side. As shown below pictures there is save, update, delete button and search box. You can do all operations easily and sort them by "firstname", "lastname" and "email" by clicking he titles.
 
 ## Pictures from project
-Application             |  Pictures
+Project             |  Pictures
 :-------------------------:|:-------------------------:
-![project_pictures](project_pictures/1.png)  |  ![project_pictures](project_pictures/8.png)
-![project_pictures](project_pictures/2.png)  |  ![project_pictures](project_pictures/3.png)
-![project_pictures](project_pictures/4.png)  |  ![project_pictures](project_pictures/5.png)
-![project_pictures](project_pictures/6.png)  |  
+![project_pictures](project_pictures/1.png)  |  ![project_pictures](project_pictures/2.png)
+![project_pictures](project_pictures/3.png)  |  ![project_pictures](project_pictures/4.png)
+![project_pictures](project_pictures/7.png)  |  ![project_pictures](project_pictures/8.png)
+![project_pictures](project_pictures/5.png)  |  ![project_pictures](project_pictures/6.png)
 
